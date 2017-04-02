@@ -1,0 +1,6 @@
+c:\users\susan\documents\visual studio 2015\Projects\HelloVS\HelloVS\bin\Debug\HelloVS.exe.config
+c:\users\susan\documents\visual studio 2015\Projects\HelloVS\HelloVS\bin\Debug\HelloVS.exe
+c:\users\susan\documents\visual studio 2015\Projects\HelloVS\HelloVS\bin\Debug\HelloVS.pdb
+c:\users\susan\documents\visual studio 2015\Projects\HelloVS\HelloVS\obj\Debug\HelloVS.csprojResolveAssemblyReference.cache
+c:\users\susan\documents\visual studio 2015\Projects\HelloVS\HelloVS\obj\Debug\HelloVS.exe
+c:\users\susan\documents\visual studio 2015\Projects\HelloVS\HelloVS\obj\Debug\HelloVS.pdb
